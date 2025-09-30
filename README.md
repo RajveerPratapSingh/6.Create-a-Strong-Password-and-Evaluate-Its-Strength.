@@ -64,7 +64,7 @@ an online strength checker.
 
 ## Tools Used
 
--   **passwordmeter.com** (password evaluation)\
+-   **passwordmeter.com** (password evaluation)
 -   **ChatGPT** (documentation & guidance)
 
 ------------------------------------------------------------------------
